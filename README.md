@@ -1,2 +1,2 @@
-# Student-Management
-Web-based Student Management System for managing student records with add, update, delete, search, and view functionalities.
+# Student Management System
+A web-based application to manage student records, including adding, updating, deleting, searching, and viewing student information.
